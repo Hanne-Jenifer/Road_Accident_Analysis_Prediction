@@ -96,7 +96,7 @@ with col5:
         radius=25,
         center=dict(lat=11.0, lon=78.0),
         zoom=5.5,
-        mapbox_style="carto-positron",
+        map_style="carto-positron",
         hover_name="District",
         hover_data={
             "Weather": True,
