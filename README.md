@@ -86,10 +86,6 @@ It provides:
 - Prediction results
 - Interactive filtering and visual exploration
 
-### 🚀 Demo
-
-**[Add Streamlit Demo Link]**
-
 ## 💡 Key Insights
 
 The analysis highlights differences in accident patterns across states, districts, weather conditions, and severity levels.
