@@ -155,6 +155,6 @@ Road-Accident-Analysis-Prediction/
 - Seaborn
 - Streamlit
 
-##👩‍💻 Author
+## 👩‍💻 Author
 
 **Hanne Jenifer R**
