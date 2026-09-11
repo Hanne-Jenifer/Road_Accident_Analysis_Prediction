@@ -88,7 +88,7 @@ with col5:
 
     color_scale = color_scales.get(selected_year, ["#00FFFF", "#2E8BC0", "#1E90FF"]) 
 
-    fig = px.density_mapbox(
+    fig = px.density_map(
         df_filtered,
         lat="Latitude",
         lon="Longitude",
