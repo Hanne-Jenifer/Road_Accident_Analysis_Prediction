@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 
 st.set_page_config(layout="wide", page_title="Accident Analysis Dashboard")
 
-df = pd.read_excel('Updated_Data.xlsx', sheet_name='Sheet1')
+df = pd.read_excel('Road_accident_data.xlsx', sheet_name='Sheet1')
 
 image = Image.open('logo.jpg')
 
